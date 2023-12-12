@@ -1,3 +1,4 @@
 # GitDemo
 This is my Practice Demo Git Repo.
-Author - Dipanshu Dhole
+<br>
+<h3>Author - Dipanshu Dhole</h3>
